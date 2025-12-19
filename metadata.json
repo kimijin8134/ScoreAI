@@ -1,0 +1,5 @@
+{
+  "name": "ScoreAI - Value Betting Agent",
+  "description": "Professional soccer prediction agent powered by Gemini. Generates probabilities, identifies value against bookmaker odds, and tracks performance.",
+  "requestFramePermissions": []
+}
